@@ -15,7 +15,8 @@ class M4DataSource:
     def __init__(self, end="2018-08-31 19:00:00", n=1000, n_test=0,
                  name="Hourly", method='const_increase', field_list=[0, 1, 4]):
 
-        if not os.path.isfile("./M4DataSet/" + name + "-train.csv"):
+        if not os.path.isfile("./M4DataSet/" + name + "-train.csv") and \
+                not os.path.isfile("./data_provider/M4DataSet/" + name + "-train.csv"):
             print("File does not exist. will download online automatically")
 
             connection_pool = urllib3.PoolManager()
