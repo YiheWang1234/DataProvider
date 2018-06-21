@@ -1,0 +1,15 @@
+[I 14:45:33.179 NotebookApp] Writing notebook server cookie secret to /home/ubuntu/.ipython/profile_default/security/notebook_cookie_secret
+[I 14:45:33.180 NotebookApp] Using MathJax from CDN: https://cdn.mathjax.org/mathjax/latest/MathJax.js
+[I 14:45:33.220 NotebookApp] Serving notebooks from local directory: /
+[I 14:45:33.220 NotebookApp] 0 active kernels 
+[I 14:45:33.220 NotebookApp] The IPython Notebook is running at: http://172.17.0.7:8888/yihewang1234/data_provider/notebookSession/5b2bba00e4b0efc4aa0e6ffd/
+[I 14:45:33.220 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 14:45:34.251 NotebookApp] 302 GET /yihewang1234/data_provider/notebookSession/5b2bba00e4b0efc4aa0e6ffd/ (10.0.194.105) 0.57ms
+[I 14:45:36.531 NotebookApp] 302 GET /yihewang1234/data_provider/notebookSession/5b2bba00e4b0efc4aa0e6ffd/ (10.0.194.105) 0.36ms
+[I 14:45:36.727 NotebookApp] 302 GET /yihewang1234/data_provider/notebookSession/5b2bba00e4b0efc4aa0e6ffd/ (10.0.194.105) 0.39ms
+[I 14:45:37.387 NotebookApp] 302 GET /yihewang1234/data_provider/notebookSession/5b2bba00e4b0efc4aa0e6ffd/ (10.0.254.176) 0.43ms
+[I 14:45:37.448 NotebookApp] 302 GET /yihewang1234/data_provider/notebookSession/5b2bba00e4b0efc4aa0e6ffd/ (10.0.40.19) 0.32ms
+[I 14:45:47.152 NotebookApp] Writing notebook-signing key to /home/ubuntu/.ipython/profile_default/security/notebook_secret
+[W 14:45:47.153 NotebookApp] Notebook mnt/Untitled.ipynb is not trusted
+[I 14:45:47.464 NotebookApp] Kernel started: 0326f7bc-4945-4f7e-a62f-2d4b5c9ff444
+[I 15:39:38.963 NotebookApp] 302 GET /yihewang1234/data_provider/notebookSession/5b2bba00e4b0efc4aa0e6ffd/ (10.0.194.105) 0.39ms
